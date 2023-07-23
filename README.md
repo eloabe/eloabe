@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header">
 
 <h1 align="center">Olá, sou Eloabe! 👨‍🎤</h1>
-<h3 align="center">Engenheiro de Computação em formação, apaixonado por dados, estatística e Machine Learning.</h3>
+<h3 align="center">Cientista de Dados e Engenheiro de Computação em formação, apaixonado por dados, estatística e Machine Learning.</h3>
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/eloabe-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
